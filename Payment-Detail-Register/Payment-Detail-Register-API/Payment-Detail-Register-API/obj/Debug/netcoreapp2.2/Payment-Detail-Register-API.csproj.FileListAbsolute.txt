@@ -1,0 +1,14 @@
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\bin\Debug\netcoreapp2.2\Payment-Detail-Register-API.deps.json
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\bin\Debug\netcoreapp2.2\Payment-Detail-Register-API.runtimeconfig.json
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\bin\Debug\netcoreapp2.2\Payment-Detail-Register-API.runtimeconfig.dev.json
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\bin\Debug\netcoreapp2.2\Payment-Detail-Register-API.dll
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.csprojAssemblyReference.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.csproj.CoreCompileInputs.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.RazorAssemblyInfo.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.RazorAssemblyInfo.cs
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.AssemblyInfoInputs.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.AssemblyInfo.cs
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.RazorTargetAssemblyInfo.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\bin\Debug\netcoreapp2.2\Payment-Detail-Register-API.pdb
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.dll
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\Payment-Detail-Register\Payment-Detail-Register-API\Payment-Detail-Register-API\obj\Debug\netcoreapp2.2\Payment-Detail-Register-API.pdb
