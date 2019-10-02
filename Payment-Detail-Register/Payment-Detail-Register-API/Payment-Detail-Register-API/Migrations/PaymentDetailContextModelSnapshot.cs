@@ -32,13 +32,13 @@ namespace Payment_Detail_Register_API.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(16)");
 
+                    b.Property<string>("CardOwnerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("ExpirationDate")
                         .IsRequired()
                         .HasColumnType("varchar(5)");
-
-                    b.Property<string>("MyProperty")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("PMId");
 

@@ -14,7 +14,7 @@ namespace Payment_Detail_Register_API.Models
         public int PMId { get; set; }
         [Required]
         [Column (TypeName = "nvarchar(100)")]
-        public string MyProperty { get; set; }
+        public string CardOwnerName { get; set; }
         [Required]
         [Column (TypeName ="varchar(16)")]
         public string CardNumber { get; set; }

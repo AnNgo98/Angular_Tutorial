@@ -13,7 +13,7 @@ namespace Payment_Detail_Register_API.Migrations
                 {
                     PMId = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
-                    MyProperty = table.Column<string>(type: "nvarchar(100)", nullable: false),
+                    CardOwnerName = table.Column<string>(type: "nvarchar(100)", nullable: false),
                     CardNumber = table.Column<string>(type: "varchar(16)", nullable: false),
                     ExpirationDate = table.Column<string>(type: "varchar(5)", nullable: false),
                     CVV = table.Column<string>(type: "varchar(3)", nullable: false)

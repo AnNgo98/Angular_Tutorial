@@ -9,7 +9,7 @@ using Payment_Detail_Register_API.Models;
 namespace Payment_Detail_Register_API.Migrations
 {
     [DbContext(typeof(PaymentDetailContext))]
-    [Migration("20190928155210_InitialCreate")]
+    [Migration("20190930051701_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -34,13 +34,13 @@ namespace Payment_Detail_Register_API.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(16)");
 
+                    b.Property<string>("CardOwnerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("ExpirationDate")
                         .IsRequired()
                         .HasColumnType("varchar(5)");
-
-                    b.Property<string>("MyProperty")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("PMId");
 
