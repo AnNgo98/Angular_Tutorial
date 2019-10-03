@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Payment_Detail_Register_API.Models
 {
     public class PaymentDetail
-    {
+    { 
         [Key]
         //[Column(Order = 1)]
         public int PMId { get; set; }

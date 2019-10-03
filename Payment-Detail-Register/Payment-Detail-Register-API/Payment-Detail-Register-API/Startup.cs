@@ -38,7 +38,7 @@ namespace Payment_Detail_Register_API
             // Use db 
             services.AddDbContext<PaymentDetailContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
-            services.AddCors();
+            services.AddCors(); 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

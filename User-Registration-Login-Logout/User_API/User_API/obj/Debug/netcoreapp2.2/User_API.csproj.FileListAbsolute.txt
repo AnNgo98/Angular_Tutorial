@@ -1,0 +1,14 @@
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\bin\Debug\netcoreapp2.2\User_API.deps.json
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\bin\Debug\netcoreapp2.2\User_API.runtimeconfig.json
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\bin\Debug\netcoreapp2.2\User_API.runtimeconfig.dev.json
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\bin\Debug\netcoreapp2.2\User_API.dll
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\bin\Debug\netcoreapp2.2\User_API.pdb
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.csprojAssemblyReference.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.csproj.CoreCompileInputs.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.RazorAssemblyInfo.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.RazorAssemblyInfo.cs
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.AssemblyInfoInputs.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.AssemblyInfo.cs
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.RazorTargetAssemblyInfo.cache
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.dll
+C:\Users\AnNgo\Documents\GitHub\Angular_Tutorial\User-Registration-Login-Logout\User_API\User_API\obj\Debug\netcoreapp2.2\User_API.pdb
