@@ -16,6 +16,7 @@ export class PaymentDetailListComponent implements OnInit {
 
   ngOnInit() {
     this.service.refreshList();
+   
   }
 // sao chép những giá trị liệt kê được và và các thuộc tính của bản thân nó đến đối tượng đích
   populateForm(pd:PaymentDetail){
@@ -33,6 +34,5 @@ export class PaymentDetailListComponent implements OnInit {
           console.log(err);
         })
     }
-   
   }
 }

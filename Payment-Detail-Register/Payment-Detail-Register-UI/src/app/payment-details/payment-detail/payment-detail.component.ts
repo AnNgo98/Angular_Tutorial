@@ -12,7 +12,8 @@ import { ToastrService } from 'ngx-toastr';
 export class PaymentDetailComponent implements OnInit {
 
   constructor(private service:PaymentDetailService,
-    private toastr:ToastrService) { }
+    private toastr:ToastrService) { 
+    }
 
   ngOnInit() {
     this.resetForm();

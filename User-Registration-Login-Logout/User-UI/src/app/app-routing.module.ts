@@ -11,7 +11,7 @@ const routes: Routes = [
   // {path:'',redirectTo:'abc',pathMatch:'full'},
   // {path:'abc',component:UserComponent}
   // {path:'abc',component:RegistrationComponent},
-  {path:'',redirectTo:'/user/registration',pathMatch:'full'},
+  {path:"",redirectTo:'user/login',pathMatch:'full'},
   {
     path:'user',component:UserComponent,
     children:[
@@ -20,7 +20,7 @@ const routes: Routes = [
     ]
   },
   {path:'home',component:HomeComponent,canActivate:[AuthGuard]}
-];
+]; 
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
